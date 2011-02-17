@@ -1,0 +1,9 @@
+#summary Who/What is TextMagic?
+
+TextMagic is a "Mobile Marketing Company" which provide an [http://en.wikipedia.org/wiki/Api API] to sends SMS.
+
+  * Homepage: [http://www.textmagic.com/]
+  * Details: [http://www.textmagic.com/app/pages/en/about]
+  * Prices: [http://www.textmagic.com/app/pages/en/pricing-coverage]
+
+This plugin use the TextMagic API and the [http://en.wikipedia.org/wiki/Php PHP] classes from an other [http://code.google.com/p/textmagic-sms-api-php/ project] to sent SMS.
