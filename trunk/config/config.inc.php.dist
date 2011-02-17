@@ -1,0 +1,14 @@
+<?php
+
+$rcmail_config['textmagic_login'] = 'admiral';
+$rcmail_config['textmagic_apipassword'] = 'kufcM9w4CrCVi98';
+
+// de=49
+$rcmail_config['textmagic_defaultMsisdnPrefix'] = '49'; 
+
+
+$rcmail_config['default-msisdn'] = '9991234567'; 
+$rcmail_config['default-message'] = '<message>';
+
+
+?>
