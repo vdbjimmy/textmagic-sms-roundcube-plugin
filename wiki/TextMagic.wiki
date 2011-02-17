@@ -1,4 +1,5 @@
 #summary Who/What is TextMagic?
+#labels Featured
 
 TextMagic is a "Mobile Marketing Company" which provide an [http://en.wikipedia.org/wiki/Api API] to sends SMS.
 
