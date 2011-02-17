@@ -1,0 +1,33 @@
+
+#taskbar a.textmagic-sms-button {
+  background: url('sms.png') 8px 2px no-repeat;
+}
+
+.textmagic-sms-header {
+	font-weight: bold;
+}
+
+.textmagic-sms-check-msisdn-button {
+	margin-left: 1em;
+}
+
+.textmagic-sms-result-value {
+	margin: 0.5em;	
+}
+
+.textmagic-sms-result {
+	display:block;
+}
+
+.textmagic-sms-output {
+	padding: 1em;
+	background-color: #fff;
+	border:1px solid #d01e7a;
+}
+
+.textmagic-sms-error {
+    padding: 1em;
+    background-color: #a00;
+    border:1px solid #d01e7a;
+    color: #fff;
+}
